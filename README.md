@@ -31,3 +31,5 @@ You can see the tables and graph of the statistics of this in your wandb profile
 This is using the <a href="https://beta.openai.com/docs/models/gpt-3">text-davinci-003</a> model at GPT-3 which is latest one at this moment(2023-01-08).
 
 You have to install certain version of wandb(0.13.4) since <a href="https://github.com/wandb/wandb/issues/4583">this error</a> occurs.
+
+This project is based on this <a href="https://wandb.ai/ivangoncharov/GPT-3%20in%20Python/reports/Use-GPT-3-in-Python-with-the-OpenAI-API-and-W-B-Tables--VmlldzoxOTg4NTMz">article</a>.
