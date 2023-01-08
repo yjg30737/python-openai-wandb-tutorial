@@ -4,8 +4,8 @@ Use GPT-3 in Python with the OpenAI and WanDB
 ## How to Use
 1. `git clone ~`
 2. `python -m pip install openai wandb==0.13.4` - i'll explain below why i installed the certain version of wandb
-3. get openai api from <a href="https://beta.openai.com/account/api-keys">here</a>
-4. sign up or login and get the api key and paste it to [MY_OPENAPI_API_KEY] in main.py
+3. get openai api from <a href="https://beta.openai.com/account/api-keys">here</a> after sign up or login
+4. paste it to [MY_OPENAPI_API_KEY] in main.py
 5. get wandb api, read <a href="https://docs.wandb.ai/quickstart">this tutorial provided by wandb</a> to figure it out
 6. type `wandb login` and paste your wandb api when they demand it
 7. type `python main.py` to run
