@@ -36,6 +36,10 @@ This is the most accurate one, and also the slowest.
 
 You have to install certain version of wandb(0.13.4) since <a href="https://github.com/wandb/wandb/issues/4583">this error</a> occurs.
 
-If you can't install openai because of subprocess-exited-with-error, just <a href="https://pypi.org/project/openai/#files">download</a> this, extract it, type python setup.py install. It might install this darn thing
+If you can't install openai because of subprocess-exited-with-error, just <a href="https://pypi.org/project/openai/#files">download</a> this, extract it, type
+```
+python setup.py install
+```
+It might install this darn thing
 
 This project is based on this <a href="https://wandb.ai/ivangoncharov/GPT-3%20in%20Python/reports/Use-GPT-3-in-Python-with-the-OpenAI-API-and-W-B-Tables--VmlldzoxOTg4NTMz">article</a>.
